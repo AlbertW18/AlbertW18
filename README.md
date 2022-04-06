@@ -1,4 +1,4 @@
-# Hello there! I'm Albert 👋
+### Hello there! I'm Albert 👋
 
 <Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlbertW18&show_icons=true&theme=radical" />\newline
 
@@ -13,6 +13,7 @@
 <Img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 \newline
+
 
 # 📚 Latest Projects
 <!-- BLOG-POST-LIST:START -->
