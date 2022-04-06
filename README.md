@@ -1,6 +1,6 @@
 # Hello there! I'm Albert 👋
 
-<Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlbertW18&show_icons=true&theme=radical" />
+<Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlbertW18&show_icons=true&theme=radical" />\newline
 
 <Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertW18&layout=compact" />
 
