@@ -1,22 +1,42 @@
-# Hello there! I'm Albert 👋
+# Hey there :wave:
 
-<Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlbertW18&show_icons=true&theme=radical" />
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertW18&layout=compact" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
-<Img align="left" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+## About me
 
-<Img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+I'm Albert Wijaya. A web Developer.
 
-<Img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+I ocassionally blog and tweet about my projects.    
 
-<Img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+## Things I am passionate about
 
-# 📚 Latest Projects
-<!-- BLOG-POST-LIST:START -->
-- [First Project]()
-- [Second Project]()
-- [Third Project]()
-- [Fourth Project]()
-- [Fifth Project]()
-<!-- BLOG-POST-LIST:END -->
+- Website :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
+- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- And of course GitHub you're already on (Recursion).
+
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
