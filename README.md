@@ -1,4 +1,4 @@
-### Hello there! I'm Albert 👋
+## Hello there! I'm Albert 👋
 
 <Img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlbertW18&show_icons=true&theme=radical" />
 
@@ -14,7 +14,7 @@
 
 
 
-# 📚 Latest Projects
+## 📚 Latest Projects
 <!-- BLOG-POST-LIST:START -->
 - [First Project]()
 - [Second Project]()
