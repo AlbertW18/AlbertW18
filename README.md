@@ -1,4 +1,4 @@
-# Hey there :wave: ![Instagram](https://instagram.com/albert.wj)
+# Hey there :wave: ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)(https://instagram.com/albert.wj)
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
