@@ -44,4 +44,5 @@ I ocassionally blog and tweet about my projects.
 - []()
 <!-- WEBSITE-PROJECTS-LIST:END -->
 
+## Github contributions
 ![snake gif](https://github.com/albertw18/albertw18/blob/output/github-contribution-grid-snake.gif)
