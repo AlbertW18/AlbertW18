@@ -26,7 +26,7 @@ I ocassionally blog and tweet about my projects.
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
 
-## ✨ Unique Projects
+## Unique Projects ✨
 <!-- LOGO-PROJECTS-LIST:START -->
 - [Bulb]()
 - [Safari Logo]()
@@ -34,5 +34,14 @@ I ocassionally blog and tweet about my projects.
 - []()
 - []()
 <!-- LOGO-PROJECTS-LIST:END -->
+
+## Website Projects
+<!-- WEBSITE-PROJECTS-LIST:START -->
+- [Bulb]()
+- [Safari Logo]()
+- []()
+- []()
+- []()
+<!-- WEBSITE-PROJECTS-LIST:END -->
 
 ![snake gif](https://github.com/albertw18/albertw18/blob/output/github-contribution-grid-snake.gif)
