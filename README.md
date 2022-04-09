@@ -27,3 +27,7 @@ I ocassionally blog and tweet about my projects.
 - And of course GitHub you're already on (Recursion).
 
 ![snake gif](https://github.com/albertw18/albertw18/blob/output/github-contribution-grid-snake.gif)
+
+## Logo's Projects
+<!-- Logo-Projects-LIST:START -->
+<!-- Logo-Projects-LIST:END -->
