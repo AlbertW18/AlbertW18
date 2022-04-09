@@ -28,8 +28,8 @@ I ocassionally blog and tweet about my projects.
 
 ## Unique Projects ✨
 <!-- LOGO-PROJECTS-LIST:START -->
-- [BULB]()
-- [SAFARI LOGO'S]()
+- [Bulb]()
+- [Safari Logo's]()
 <!-- LOGO-PROJECTS-LIST:END -->
 
 <!-- NAV-PROJECTS-LIST:START -->
