@@ -1,4 +1,4 @@
-name: Latest Logo Projects workflow
+name: Latest Navigation Projects workflow
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
