@@ -2,7 +2,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/albert.wj)
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://albertw18.github.io)
 
-<img src="https://raw.githubusercontent.com/albertw18/albertw18/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/albertw18/albertw18/master/resources/github.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
