@@ -10,18 +10,15 @@
 </p>
 
 ## About me
+I'm Albert Wijaya. A Web Developer.
 
-I'm Albert Wijaya. A web Developer.
-
-I ocassionally blog and tweet about my projects.    
+I ocassionally blog about my projects.    
 
 ## Things I am passionate about
-
 - Website
 - Open source :octocat:
 
 ## Get in touch :coffee:
-
 - Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
