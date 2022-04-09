@@ -26,5 +26,4 @@ I ocassionally blog and tweet about my projects.
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
 
-## Github Snake
 ![snake gif](https://github.com/albertw18/albertw18/blob/output/github-contribution-grid-snake.gif)
