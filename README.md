@@ -2,7 +2,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/albert.wj)
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://albertw18.github.io)
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/albertw18/albertw18/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
@@ -17,7 +17,7 @@ I ocassionally blog and tweet about my projects.
 
 ## Things I am passionate about
 
-- Website :robot:
+- Website
 - Open source :octocat:
 
 ## Get in touch :coffee:
@@ -34,6 +34,10 @@ I ocassionally blog and tweet about my projects.
 
 ## Navigation Website
 <!-- NAV-PROJECTS-LIST:START -->
+- [1st Navigation Bar]()
+- [2nd Navigation Bar]()
+- [3rd Navigation Bar]()
+- [Magic Taskbar]()
 <!-- NAV-PROJECTS-LIST:END -->
 
 ## Website Projects
