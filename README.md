@@ -26,9 +26,7 @@ I ocassionally blog and tweet about my projects.
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
 
-
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 Here are some ideas to get you started:
 
